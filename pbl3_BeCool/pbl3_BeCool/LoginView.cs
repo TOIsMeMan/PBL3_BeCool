@@ -10,15 +10,15 @@ using System.Windows.Forms;
 
 namespace pbl3_BeCool
 {
-    public partial class ChildForm : Form
+    public partial class LoginView : ChildForm
     {
-        public Form1 parentForm;
-        public ChildForm()
+        public LoginView(Form1 parent)
         {
+            this.parentForm = parent;
             InitializeComponent();
         }
 
-        private void ChildForm_Load(object sender, EventArgs e)
+        private void LoginView_Load(object sender, EventArgs e)
         {
 
         }
