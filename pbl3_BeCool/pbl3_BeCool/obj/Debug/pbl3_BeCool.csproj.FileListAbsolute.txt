@@ -1,0 +1,11 @@
+C:\Users\tuanc\Documents\GitHub\PBL3_BeCool\pbl3_BeCool\pbl3_BeCool\bin\Debug\pbl3_BeCool.exe.config
+C:\Users\tuanc\Documents\GitHub\PBL3_BeCool\pbl3_BeCool\pbl3_BeCool\bin\Debug\pbl3_BeCool.exe
+C:\Users\tuanc\Documents\GitHub\PBL3_BeCool\pbl3_BeCool\pbl3_BeCool\bin\Debug\pbl3_BeCool.pdb
+C:\Users\tuanc\Documents\GitHub\PBL3_BeCool\pbl3_BeCool\pbl3_BeCool\obj\Debug\pbl3_BeCool.csproj.AssemblyReference.cache
+C:\Users\tuanc\Documents\GitHub\PBL3_BeCool\pbl3_BeCool\pbl3_BeCool\obj\Debug\pbl3_BeCool.ChildForm.resources
+C:\Users\tuanc\Documents\GitHub\PBL3_BeCool\pbl3_BeCool\pbl3_BeCool\obj\Debug\pbl3_BeCool.Form1.resources
+C:\Users\tuanc\Documents\GitHub\PBL3_BeCool\pbl3_BeCool\pbl3_BeCool\obj\Debug\pbl3_BeCool.Properties.Resources.resources
+C:\Users\tuanc\Documents\GitHub\PBL3_BeCool\pbl3_BeCool\pbl3_BeCool\obj\Debug\pbl3_BeCool.csproj.GenerateResource.cache
+C:\Users\tuanc\Documents\GitHub\PBL3_BeCool\pbl3_BeCool\pbl3_BeCool\obj\Debug\pbl3_BeCool.csproj.CoreCompileInputs.cache
+C:\Users\tuanc\Documents\GitHub\PBL3_BeCool\pbl3_BeCool\pbl3_BeCool\obj\Debug\pbl3_BeCool.exe
+C:\Users\tuanc\Documents\GitHub\PBL3_BeCool\pbl3_BeCool\pbl3_BeCool\obj\Debug\pbl3_BeCool.pdb

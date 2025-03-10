@@ -10,11 +10,10 @@ using System.Windows.Forms;
 
 namespace pbl3_BeCool
 {
-    public partial class LoginView : ChildForm
+    public partial class menuItem : UserControl
     {
-        public LoginView(Form1 view)
+        public menuItem()
         {
-            this.parentForm = view;
             InitializeComponent();
         }
     }

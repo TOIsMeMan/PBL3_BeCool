@@ -18,7 +18,7 @@ namespace pbl3_BeCool
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            this.showLoginView();
         }
         private void switchView(Form view)
         {
@@ -28,6 +28,11 @@ namespace pbl3_BeCool
             view.Dock = DockStyle.Fill;         // Đổ đầy Panel
             panel1.Controls.Add(view);
             view.Show();
+        }
+        public void showLoginView()
+        {
+            LoginView loginView = new LoginView(this);
+            this.switchView(loginView);
         }
     }
 }
