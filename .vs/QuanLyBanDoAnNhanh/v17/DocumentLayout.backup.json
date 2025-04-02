@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\quanlybandoannhanh\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|solutionrelative:quanlybandoannhanh\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\quanlybandoannhanh\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|solutionrelative:quanlybandoannhanh\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\quanlybandoannhanh\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|solutionrelative:quanlybandoannhanh\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|d:\\pbl3\\dack_nhomwin2t_qlbdan\\quanlybandoannhanh\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|solutionrelative:quanlybandoannhanh\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\quanlybandoannhanh\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DD25B94-7DE1-4892-B04E-FA93EB86F7D8}|QuanLyBanDoAnNhanh\\Phanmem.csproj|solutionrelative:quanlybandoannhanh\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\QuanLyBanDoAnNhanh\\DAO\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "QuanLyBanDoAnNhanh\\DAO\\AccountDAO.cs",
+              "ToolTip": "D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\QuanLyBanDoAnNhanh\\DAO\\AccountDAO.cs",
+              "RelativeToolTip": "QuanLyBanDoAnNhanh\\DAO\\AccountDAO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:48:04.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fLogin.Designer.cs",
+              "DocumentMoniker": "D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\QuanLyBanDoAnNhanh\\fLogin.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanDoAnNhanh\\fLogin.Designer.cs",
+              "ToolTip": "D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\QuanLyBanDoAnNhanh\\fLogin.Designer.cs",
+              "RelativeToolTip": "QuanLyBanDoAnNhanh\\fLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:20:04.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\QuanLyBanDoAnNhanh\\fLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyBanDoAnNhanh\\fLogin.cs",
+              "ToolTip": "D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\QuanLyBanDoAnNhanh\\fLogin.cs [Design]",
+              "RelativeToolTip": "QuanLyBanDoAnNhanh\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:16:24.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\QuanLyBanDoAnNhanh\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QuanLyBanDoAnNhanh\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\QuanLyBanDoAnNhanh\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QuanLyBanDoAnNhanh\\DAO\\DataProvider.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAArwEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:21:29.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\QuanLyBanDoAnNhanh\\App.config",
+              "RelativeDocumentMoniker": "QuanLyBanDoAnNhanh\\App.config",
+              "ToolTip": "D:\\PBL3\\DACK_NhomWin2T_QLBDAN\\QuanLyBanDoAnNhanh\\App.config",
+              "RelativeToolTip": "QuanLyBanDoAnNhanh\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-20T01:23:52.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
